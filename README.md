@@ -10,17 +10,24 @@ And the data set, are country names and text rates.
 Then this data is being sorted by using each algorithim i.e one algorithin at a time.
 Thank you.
 
-
-# Video Demonstration on Youtube
-https://youtu.be/JZ5n5VNZByw
-
-
 # Pre-requisitves 
 Java JDK version 1.8 will be require to run this code.
 
 # Check JDK
 to check whether jdk is installed or not in your machine follow the bellow instructions
 open cmd type javac
+
+
+# Github Link
+https://github.com/Sooraj213-sys/DS-Project/
+
+# Youtube Link
+Part 1
+https://youtu.be/bGnxxomKcMk
+Part 2
+https://youtu.be/BKOQluEyMp4
+Part 3
+https://youtu.be/cV2-Ufw7xso
 
 
 # Directions to run
